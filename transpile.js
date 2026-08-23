@@ -1,0 +1,1 @@
+function transpile(c) { return `fetch('${c}')`; } module.exports = { transpile };
